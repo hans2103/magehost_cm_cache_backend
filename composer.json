@@ -1,8 +1,8 @@
 {
-  "name":"magehost/magehost_cm_cache_backend",
+  "name":"hans2103/magehost_cm_cache_backend",
   "type":"magento-module",
   "license":"GPL-3.0",
-  "homepage":"https://github.com/magehost/magehost_cm_cache_backend",
+  "homepage":"https://github.com/hans2103/magehost_cm_cache_backend",
   "description":"MageHost_Cm_Cache_Backend: MageHost extended version of Colin Mollenhour's Cm_Cache_Backend_File and Cm_Cache_Backend_Redis",
   "authors":[
     {
