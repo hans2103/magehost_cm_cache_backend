@@ -12,7 +12,7 @@
   ],
   "require":{
     "magento-hackathon/magento-composer-installer":"*",
-    "colinmollenhour/cache-backend-redis":"*",
+    "hans2103/colinmollenhour_cache-backend-redis":"*",
     "colinmollenhour/cache-backend-file":"*"
   }
 }
